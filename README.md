@@ -1,5 +1,5 @@
 
-# Python Programming - Batch - 01
+# Python Learning - Batch - 01
 
 ***If you want to LEARN anything to a perfect level, start TEACHING it***
 
@@ -20,6 +20,7 @@ _Use YouTube Tutorials if you don't know how to install any of them correctly_
 
 For support, email arhamrumi007@gmail.com
 
+DM me on [LinkedIn](https://www.linkedin.com/in/arham-rumi-94769b180/)
 
   
 ## Connection Links 🔗
