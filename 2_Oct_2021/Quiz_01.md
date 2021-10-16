@@ -19,3 +19,6 @@
 
 ## Objectives
 
+- Problem understanding skills
+- Problem analysis skills
+- Soultion designing skills
