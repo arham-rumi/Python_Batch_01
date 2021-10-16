@@ -37,3 +37,7 @@ Write a program to calculate Area of Circle by taking radius as input.
 
 ### Q - 03
 Write a program to calculate percentage of total marks obtained in final term for a student.
+
+### Q - 04
+Write a program to print whether the user defined number is a prime number or not with proper message.
+
