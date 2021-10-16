@@ -58,8 +58,9 @@ Write a Python program to check whether two user defined integers are multiplica
 
 ### Q - 09
 Write a Python program to check a triangle is equilateral, isosceles or scalene.
+
 Note :
-All triangles have three sides
-An equilateral triangle is a triangle in which all three sides are equal.
-A scalene triangle is a triangle that has three unequal sides.
-An isosceles triangle is a triangle with (at least) two equal sides
+- All triangles have three sides
+- An equilateral triangle is a triangle in which all three sides are equal
+- A scalene triangle is a triangle that has three unequal sides
+- An isosceles triangle is a triangle with (at least) two equal sides
