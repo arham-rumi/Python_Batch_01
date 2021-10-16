@@ -44,3 +44,8 @@ Write a program to print whether the user defined number is a prime number or no
 ### Q - 05
 Write a Python program to check whether an alphabet is a vowel or consonant.
 
+### Q - 06
+Write a Python program to sum up two user defined integers. However, if the sum is:
+- Below Zero - Display "Bigger number was negative"
+- Equal to ZERO - Display "Both numbers were equally distant on number line on opposite sides"
+- Greater than ZERO - Display "Bigger number was positive"
