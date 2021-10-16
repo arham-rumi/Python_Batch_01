@@ -41,3 +41,5 @@ Write a program to calculate percentage of total marks obtained in final term fo
 ### Q - 04
 Write a program to print whether the user defined number is a prime number or not with proper message.
 
+### Q - 05
+Write a Python program to check whether an alphabet is a vowel or consonant.
