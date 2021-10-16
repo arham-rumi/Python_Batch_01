@@ -43,3 +43,4 @@ Write a program to print whether the user defined number is a prime number or no
 
 ### Q - 05
 Write a Python program to check whether an alphabet is a vowel or consonant.
+
