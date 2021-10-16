@@ -49,3 +49,6 @@ Write a Python program to sum up two user defined integers. However, if the sum 
 - Below Zero - Display "Bigger number was negative"
 - Equal to ZERO - Display "Both numbers were equally distant on number line on opposite sides"
 - Greater than ZERO - Display "Bigger number was positive"
+
+### Q - 07
+Write a Python program to check whether two user defined integers are additive inverse of each other.
