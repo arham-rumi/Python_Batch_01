@@ -22,3 +22,5 @@
 - Problem understanding skills
 - Problem analysis skills
 - Soultion designing skills
+- Implementation of programming knowledge on real world problems
+- Basics of Python programming
