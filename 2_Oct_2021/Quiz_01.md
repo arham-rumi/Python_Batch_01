@@ -33,9 +33,4 @@
 Write a program that will take three integers as user defined inputs and prints the maximum number out of them.
 
 ### Q - 02
-Write a program that will take three integers as user defined inputs and prints the maximum number out of them.
-### Note
-
-- 
-- Perform DRY RUN
-- Choose a small value for drawing patterns
+Write a program to calculate Area of Circle by taking radius as input.
