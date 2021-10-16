@@ -64,3 +64,7 @@ Note :
 - An equilateral triangle is a triangle in which all three sides are equal
 - A scalene triangle is a triangle that has three unequal sides
 - An isosceles triangle is a triangle with (at least) two equal sides
+
+
+### Q - 10
+Write a Python program to print user defined multiplication table and also reverse the table.
