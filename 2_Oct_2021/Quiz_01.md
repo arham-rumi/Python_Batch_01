@@ -12,3 +12,6 @@
 
 - Don't Copy from any source
 - None of the questions will be out of the syllabus we have studied so far
+- You will not be allowed to ask me about the questions
+- Read questions carefully
+
