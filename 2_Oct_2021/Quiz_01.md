@@ -8,4 +8,7 @@
 - Basic operators
 - `for` loop
 
+## Instructions
 
+- Don't Copy from any source
+- None of the questions will be out of the syllabus we have studied so far
