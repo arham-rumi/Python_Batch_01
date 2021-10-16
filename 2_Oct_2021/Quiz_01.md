@@ -34,3 +34,6 @@ Write a program that will take three integers as user defined inputs and prints 
 
 ### Q - 02
 Write a program to calculate Area of Circle by taking radius as input.
+
+### Q - 03
+Write a program to calculate percentage of total marks obtained in final term for a student.
