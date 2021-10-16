@@ -52,3 +52,14 @@ Write a Python program to sum up two user defined integers. However, if the sum 
 
 ### Q - 07
 Write a Python program to check whether two user defined integers are additive inverse of each other.
+
+### Q - 08
+Write a Python program to check whether two user defined integers are multiplicative inverse of each other.
+
+### Q - 09
+Write a Python program to check a triangle is equilateral, isosceles or scalene.
+Note :
+All triangles have three sides
+An equilateral triangle is a triangle in which all three sides are equal.
+A scalene triangle is a triangle that has three unequal sides.
+An isosceles triangle is a triangle with (at least) two equal sides
