@@ -25,4 +25,8 @@
 - Implementation of programming knowledge on real world problems
 - Basics of Python programming
 
-## -------------------------------------------------------------------------
+
+## Problem Statements
+
+### Q - 01
+Write a program that will take three integers as user defined inputs and prints the maximum number out of them.
