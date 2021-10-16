@@ -15,6 +15,7 @@
 - You will not be allowed to ask me about the questions
 - Read questions carefully
 - Solve questions on your own perception
+- Comment your outputs in the program
 
 
 ## Objectives
@@ -30,3 +31,11 @@
 
 ### Q - 01
 Write a program that will take three integers as user defined inputs and prints the maximum number out of them.
+
+### Q - 02
+Write a program that will take three integers as user defined inputs and prints the maximum number out of them.
+### Note
+
+- 
+- Perform DRY RUN
+- Choose a small value for drawing patterns
